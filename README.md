@@ -11,6 +11,7 @@ Here is a screenshot of the UI created in python that only uses the HQ Raspberry
 
 
 Here is a demo video of the UI in action
+
 ![ezgif com-gif-maker-5](https://user-images.githubusercontent.com/121901181/210612814-38f3d510-0880-415c-909d-e443572df7ac.gif)
 
 Behavior of Water Droplet Flow on a Hydrophobic Surface (Microscope Slide coated with RainX)
